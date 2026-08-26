@@ -1,12 +1,18 @@
-# Code and analysis for: Rossiter et al. unpublished: A novel approach to identify aquatic pollutants that could select for antimicrobial resistance: compound prioritisation for risk assessment research
+# Code and analysis for: Rossiter et al. unpublished: *A novel approach to identify aquatic pollutants that could select for antimicrobial resistance: compound prioritisation for risk assessment research*
 
-## This repository contains the final datasets, analyses and figures of the above-mentioned paper.  It can recreate figures and tables in both the main text and the supplementary files, with the exception of all Tables in Supplementary file 1, and Tables 1, 2, 3, 4, 6 and 7 from the manuscript, which were manually collated, Tables S3.4, S3.5, S3.6, S3.7 and S3.8, which were generated using MarvinSketch and Scheme 1 which was created in Biorender. 
+## Repository contents
 
+This repository contains the final datasets, analyses and figures from the above-mentioned paper. It can be used to recreate figures and tables from both the main text and the supplementary files, with the following exceptions:
 
-##**NOTE for anyone wanting to use Chemicalize and MarvinSketch:**
+* all tables in Supplementary File 1 and Tables 1, 2, 3, 4, 6 and 7 from the manuscript, which were manually collated
+* Tables S3.4, S3.5, S3.6, S3.7 and S3.8, in Supplementary File 3 which were generated using MarvinSketch
+* Scheme 1, which was created in BioRender
 
-Unfortunately, ChemAxon is retiring Chemicalize on 30 June 2027. 
-ChemAxon has also discontinued free individual academic licenses as of July 31, 2026, which is what was used in this manuscript. 
+## **Note for anyone wanting to use Chemicalize or MarvinSketch**
+
+ChemAxon is retiring Chemicalize on **30 June 2027**. Therefore, the Chemicalize steps described in this repository will not be reproducible using the same platform after this date.
+
+ChemAxon has also discontinued its free individual academic licences. Existing free individual academic licences remained active until **31 July 2026**. This type of academic licence was used for MarvinSketch in the work described in this manuscript.
 
 
 ## In the file "Scripts" you will find the R Scripts used in this paper. 
