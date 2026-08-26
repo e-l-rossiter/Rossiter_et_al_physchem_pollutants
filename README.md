@@ -94,7 +94,7 @@ This script uses the PubChem information generated in Script 1 to obtain physico
 | ----------------------- | ------------------ | ------------------------------------------------ |
 | `Pubchem_Downloads.csv` | `Files_for_coding` | CSV version of Table S2.1 generated in Script 1. |
 
-#### Files created for external calculations
+#### Files created for external calculations in Script 2
 
 | File                                        | Folder                | Use                                                                        |
 | ------------------------------------------- | --------------------- | -------------------------------------------------------------------------- |
@@ -116,8 +116,8 @@ This script uses the PubChem information generated in Script 1 to obtain physico
 
 | File                                         | Folder             | Description                                                                     |
 | -------------------------------------------- | ------------------ | ------------------------------------------------------------------------------- |
-| Table S2.2 Excel file                        | `Tables`           | Formatted and cleaned Chemicalize output.                                       |
-| Table S2.5 Excel file                        | `Tables`           | Formatted and cleaned eNTRYway output.                                          |
+| `Table_S2_2_Chemicalize_batch.xlsx`                       | `Tables`           | Formatted and cleaned Chemicalize output.                                       |
+| `Table_S2_5_eNTRy_way_Batch.xlsx`                       | `Tables`           | Formatted and cleaned eNTRYway output.                                          |
 | `joined_chemicalize_eNTRy_way_pub_chem.xlsx` | `Files_for_coding` | Combined PubChem, Chemicalize and eNTRYway information. Used later in Script 3. |
 
 ### **Script 3**
