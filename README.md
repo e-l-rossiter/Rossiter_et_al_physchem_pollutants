@@ -6,7 +6,7 @@ This repository contains the final datasets, analyses and figures from the above
 
 * all tables in Supplementary File 1 and Tables 1, 2, 3, 4, 6 and 7 from the manuscript, which were manually collated
 * Tables S3.4, S3.5, S3.6, S3.7 and S3.8, in Supplementary File 3 which were generated using MarvinSketch
-* Scheme 1, which was created in BioRender
+* Figure 2, which was created in BioRender.com. 
 
 ## **Note for anyone wanting to use Chemicalize or MarvinSketch**
 
