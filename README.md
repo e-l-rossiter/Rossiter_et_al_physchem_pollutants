@@ -16,7 +16,7 @@ ChemAxon is retiring Chemicalize on **30 June 2027**. Therefore, the Chemicalize
 ChemAxon has also discontinued its free individual academic licences. Existing free individual academic licences remained active until **31 July 2026**. This type of academic licence was used for MarvinSketch in the work described in this manuscript.
 
 
-## In the file "Scripts" you will find the R Scripts used in this Manuscript. 
+## In the folder "Scripts" you will find the R Scripts used in this Manuscript. 
 
 You will need to run each script in order. 
 
